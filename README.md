@@ -30,7 +30,7 @@ kanban-board/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/harshdasila/kanban-board.git
+git clone https://github.com/yoharsh14/kanbanBoard.git
 cd kanban-board
 ```
 
